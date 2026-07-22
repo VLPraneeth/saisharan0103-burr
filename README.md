@@ -1,4 +1,4 @@
-# saisharan0103-burr
+# Praneeth-burr
 
 A cleaned public version of this repository.
 
@@ -7,3 +7,4 @@ Concise reference copy for public sharing.
 
 ## Notes
 Personal names are intentionally omitted.
+
